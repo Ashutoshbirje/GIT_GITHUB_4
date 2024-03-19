@@ -1,1 +1,1 @@
-About branch
+About git branch concept (master)
